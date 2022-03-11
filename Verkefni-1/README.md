@@ -25,6 +25,13 @@ pie title Tölur úr töflunni hér að ofan
     "Miðja" : 12
     "Hægri" : 53
     "Vinsrti" : 33
+    
+    pie
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
 
 
 ### Dolore ut velit
