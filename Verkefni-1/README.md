@@ -27,7 +27,7 @@ pie
     "Miðja" : 12
     "Vinstri" : 34
     "Hægri" : 56
-  tempor et fugiat
+ 
 
 ```
 
