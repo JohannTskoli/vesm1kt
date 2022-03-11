@@ -23,7 +23,7 @@ tempor | et | fugiat
 ### Eiusmod tempor et fugiat
 ```mermaid
 pie
-    title Key elements in Product X
+    title  tempor et fugiat
     "Miðja" : 12
     "Vinstri" : 34
     "Hægri" : 56
