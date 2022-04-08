@@ -5,7 +5,7 @@
 
 ![drawing.svg](https://github.com/JohannTskoli/vesm1kt/blob/main/Verkefni_2/drawing.svg)
 ## Verkefni 2.2:
-![drawing.png](https://github.com/JohannTskoli/vesm1kt/blob/main/Verkefni_2/drawing.svg)
+![drawing.png](https://raw.githubusercontent.com/JohannTskoli/vesm1kt/ebd347832424ab1b16dcfe6ab9f0c921fd3686b1/Verkefni_2/drawing.svg)
 
 ## Verkefni 2.3:
 ![box.svg](https://raw.githubusercontent.com/JohannTskoli/vesm1kt/e453f0146b30672da019fd6f2058279522e7c704/Verkefni_2/box.svg)
