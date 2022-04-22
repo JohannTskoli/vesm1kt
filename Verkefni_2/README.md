@@ -9,3 +9,6 @@
 ## Verkefni 2.3:
 ![box.svg](https://raw.githubusercontent.com/JohannTskoli/vesm1kt/e453f0146b30672da019fd6f2058279522e7c704/Verkefni_2/box.svg)
 ![png box.png](https://github.com/JohannTskoli/vesm1kt/blob/main/Verkefni_2/png%20box.png?raw=true)
+
+![unnamed.jpg](https://github.com/JohannTskoli/vesm1kt/blob/main/Verkefni_2/unnamed%20(2).jpg)
+![unnamed (2).jpg](https://github.com/JohannTskoli/vesm1kt/blob/main/Verkefni_2/unnamed.jpg)
